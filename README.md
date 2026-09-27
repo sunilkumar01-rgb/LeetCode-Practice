@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
