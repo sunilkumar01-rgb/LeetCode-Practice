@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
@@ -61,4 +62,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
