@@ -42,4 +42,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1518-water-bottles](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1518-water-bottles/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
