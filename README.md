@@ -52,6 +52,7 @@
 | [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -97,5 +99,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
