@@ -53,6 +53,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -95,4 +97,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
