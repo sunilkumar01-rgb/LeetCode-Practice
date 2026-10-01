@@ -53,6 +53,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
@@ -108,6 +109,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
@@ -128,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
