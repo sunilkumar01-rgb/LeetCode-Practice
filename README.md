@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -134,4 +135,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
