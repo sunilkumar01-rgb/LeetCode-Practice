@@ -65,6 +65,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
