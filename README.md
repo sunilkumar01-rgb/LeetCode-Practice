@@ -17,6 +17,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Breadth-First Search
@@ -58,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
