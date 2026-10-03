@@ -55,6 +55,7 @@
 | [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -87,6 +88,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -130,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
