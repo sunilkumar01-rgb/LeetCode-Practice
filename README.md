@@ -87,6 +87,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
