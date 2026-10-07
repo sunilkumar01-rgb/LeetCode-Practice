@@ -16,6 +16,7 @@
 | [1518-water-bottles](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1518-water-bottles/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
