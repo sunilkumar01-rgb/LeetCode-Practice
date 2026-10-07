@@ -234,6 +234,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
