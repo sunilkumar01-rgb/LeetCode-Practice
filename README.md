@@ -180,6 +180,7 @@
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
@@ -242,6 +243,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
