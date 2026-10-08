@@ -249,6 +249,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
+| [1446-consecutive-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1446-consecutive-characters/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
