@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
+| [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +245,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
