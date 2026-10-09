@@ -217,6 +217,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1446-consecutive-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1446-consecutive-characters/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Quickselect
@@ -296,4 +299,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
