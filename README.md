@@ -75,6 +75,7 @@
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -149,6 +150,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -304,6 +306,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Bracket Sequences
