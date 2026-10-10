@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
@@ -46,6 +47,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -321,6 +323,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
