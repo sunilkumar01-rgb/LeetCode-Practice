@@ -17,6 +17,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1518-water-bottles](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1518-water-bottles/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
@@ -256,6 +257,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,4 +329,5 @@
 | [0021-merge-two-sorted-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
