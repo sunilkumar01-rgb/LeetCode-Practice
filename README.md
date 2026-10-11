@@ -334,6 +334,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
