@@ -212,6 +212,7 @@
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +350,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
