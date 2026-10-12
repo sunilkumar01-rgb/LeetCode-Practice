@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Breadth-First Search
@@ -83,6 +84,7 @@
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0162-find-peak-element/) | Medium |
