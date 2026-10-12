@@ -128,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -290,6 +291,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
@@ -377,4 +379,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
