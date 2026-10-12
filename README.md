@@ -23,6 +23,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -201,6 +202,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -288,6 +290,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
@@ -370,4 +373,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
