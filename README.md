@@ -32,6 +32,7 @@
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Breadth-First Search
@@ -112,6 +113,7 @@
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -188,6 +190,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -269,6 +272,7 @@
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
