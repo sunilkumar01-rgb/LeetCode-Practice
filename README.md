@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
@@ -162,6 +163,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
@@ -249,6 +251,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -369,6 +372,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
