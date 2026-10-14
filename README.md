@@ -36,6 +36,7 @@
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0338-counting-bits/) | Easy |
 | [0647-palindromic-substrings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Breadth-First Search
@@ -65,6 +66,7 @@
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0338-counting-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
