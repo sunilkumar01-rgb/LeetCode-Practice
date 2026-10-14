@@ -59,6 +59,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -107,6 +108,7 @@
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0162-find-peak-element/) | Medium |
