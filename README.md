@@ -79,6 +79,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1518-water-bottles](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1518-water-bottles/) | Easy |
@@ -97,6 +98,7 @@
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
@@ -368,6 +370,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
