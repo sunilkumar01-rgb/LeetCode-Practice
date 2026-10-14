@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
@@ -158,6 +159,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -329,6 +331,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
