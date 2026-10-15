@@ -137,6 +137,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
@@ -174,6 +175,7 @@
 | [0217-contains-duplicate](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
@@ -190,6 +192,7 @@
 | [0217-contains-duplicate](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -216,6 +219,7 @@
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -265,6 +269,7 @@
 | [0283-move-zeroes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
