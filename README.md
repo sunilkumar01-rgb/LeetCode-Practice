@@ -139,6 +139,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
@@ -178,6 +179,7 @@
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
