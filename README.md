@@ -137,6 +137,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
