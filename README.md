@@ -34,6 +34,7 @@
 | [0070-climbing-stairs](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
@@ -118,6 +119,7 @@
 | [0088-merge-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -312,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
