@@ -137,6 +137,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -221,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
@@ -399,6 +401,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +473,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,4 +504,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
