@@ -148,6 +148,7 @@
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -417,6 +418,7 @@
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Bracket Sequences
