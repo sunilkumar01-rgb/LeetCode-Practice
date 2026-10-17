@@ -473,6 +473,7 @@
 | [0110-balanced-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -485,6 +486,7 @@
 | [0110-balanced-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Manacher
@@ -513,6 +515,7 @@
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Graph Theory
@@ -547,4 +550,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
