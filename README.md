@@ -125,6 +125,7 @@
 | [0075-sort-colors](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -255,6 +256,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0191-number-of-1-bits/) | Easy |
@@ -470,6 +472,7 @@
 | [0101-symmetric-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
@@ -483,6 +486,7 @@
 | [0101-symmetric-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
@@ -553,6 +557,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
