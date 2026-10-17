@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
@@ -461,10 +462,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +485,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 ## Graph Theory
