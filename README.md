@@ -469,6 +469,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,6 +478,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +502,7 @@
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -528,4 +531,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
