@@ -59,6 +59,7 @@
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
+| [0684-redundant-connection](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -420,6 +421,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0684-redundant-connection/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +531,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -536,6 +539,7 @@
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
