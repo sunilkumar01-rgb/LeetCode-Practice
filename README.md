@@ -59,6 +59,7 @@
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
+| [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +233,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
@@ -527,12 +529,14 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,4 +579,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
