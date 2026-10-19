@@ -121,6 +121,7 @@
 | [0035-search-insert-position](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -518,6 +519,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
