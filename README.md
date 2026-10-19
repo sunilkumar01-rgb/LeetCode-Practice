@@ -174,6 +174,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -266,6 +267,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Divide and Conquer
