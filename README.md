@@ -76,6 +76,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0191-number-of-1-bits/) | Easy |
@@ -129,6 +130,7 @@
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -516,6 +518,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
