@@ -119,6 +119,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
@@ -519,6 +520,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
