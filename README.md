@@ -125,6 +125,7 @@
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0055-jump-game/) | Medium |
@@ -199,6 +200,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -221,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -402,6 +405,7 @@
 | [0013-roman-to-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
