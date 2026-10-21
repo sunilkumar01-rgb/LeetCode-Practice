@@ -174,6 +174,7 @@
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -491,6 +492,7 @@
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
+| [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
