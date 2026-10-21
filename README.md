@@ -208,6 +208,7 @@
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
@@ -440,6 +441,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -498,6 +500,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -667,4 +670,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
