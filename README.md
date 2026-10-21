@@ -186,6 +186,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -242,6 +243,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -254,6 +256,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
