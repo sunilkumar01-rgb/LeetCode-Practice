@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
@@ -78,6 +79,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0190-reverse-bits/) | Easy |
@@ -105,6 +107,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1518-water-bottles](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1518-water-bottles/) | Easy |
@@ -425,6 +428,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
