@@ -11,6 +11,7 @@
 | [0062-unique-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
@@ -274,6 +275,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0162-find-peak-element/) | Medium |
@@ -695,4 +697,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
