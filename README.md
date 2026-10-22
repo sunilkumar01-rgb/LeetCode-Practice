@@ -180,6 +180,7 @@
 | [0485-max-consecutive-ones](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
+| [0506-relative-ranks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
@@ -256,6 +257,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0414-third-maximum-number/) | Easy |
+| [0506-relative-ranks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -271,6 +273,7 @@
 | [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0506-relative-ranks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0743-network-delay-time](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1424-diagonal-traverse-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1424-diagonal-traverse-ii/) | Medium |
