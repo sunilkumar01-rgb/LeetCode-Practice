@@ -162,6 +162,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
