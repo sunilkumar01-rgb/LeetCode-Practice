@@ -109,6 +109,7 @@
 | [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
+| [0495-teemo-attacking](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1518-water-bottles](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1518-water-bottles/) | Easy |
@@ -177,6 +178,7 @@
 | [0414-third-maximum-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
