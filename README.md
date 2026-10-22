@@ -183,6 +183,7 @@
 | [0506-relative-ranks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
@@ -258,6 +259,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0506-relative-ranks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -390,6 +392,7 @@
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Longest Increasing Subsequence
@@ -714,4 +717,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
