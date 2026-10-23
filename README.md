@@ -41,6 +41,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
@@ -106,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0162-find-peak-element/) | Medium |
@@ -226,6 +229,7 @@
 | [0076-minimum-window-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
@@ -459,6 +463,7 @@
 | [0076-minimum-window-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
@@ -656,6 +661,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,4 +749,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0528-random-pick-with-weight/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
