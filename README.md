@@ -172,6 +172,7 @@
 | [0189-rotate-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -475,6 +476,7 @@
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0290-word-pattern/) | Easy |
@@ -539,6 +541,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -624,6 +627,7 @@
 | [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -673,6 +677,7 @@
 | [0014-longest-common-prefix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
