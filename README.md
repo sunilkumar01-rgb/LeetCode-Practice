@@ -205,6 +205,7 @@
 | [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -259,6 +260,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
@@ -516,6 +518,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +587,7 @@
 | [0328-odd-even-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -784,4 +788,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
