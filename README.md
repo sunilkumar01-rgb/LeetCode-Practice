@@ -202,6 +202,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
+| [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0661-image-smoother](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
@@ -514,12 +515,14 @@
 | [0295-find-median-from-data-stream](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
+| [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,6 +583,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
+| [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
