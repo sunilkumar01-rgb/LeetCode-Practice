@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
@@ -103,6 +104,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
