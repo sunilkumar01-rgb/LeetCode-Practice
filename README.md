@@ -267,6 +267,7 @@
 | [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -505,6 +506,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1446-consecutive-characters/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
