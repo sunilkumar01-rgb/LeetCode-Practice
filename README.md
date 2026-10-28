@@ -234,6 +234,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -304,6 +305,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
