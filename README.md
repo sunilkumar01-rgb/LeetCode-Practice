@@ -230,6 +230,7 @@
 | [1424-diagonal-traverse-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1528-shuffle-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -515,6 +516,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1446-consecutive-characters/) | Easy |
+| [1528-shuffle-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1528-shuffle-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Quickselect
