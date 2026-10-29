@@ -58,6 +58,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -230,6 +231,7 @@
 | [0875-koko-eating-bananas](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -312,6 +314,7 @@
 | [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0881-boats-to-save-people/) | Medium |
+| [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1424-diagonal-traverse-ii/) | Medium |
@@ -485,6 +488,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -493,6 +497,7 @@
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -864,6 +869,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
