@@ -196,6 +196,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0312-burst-balloons/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -339,6 +340,7 @@
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -358,6 +360,7 @@
 | [0190-reverse-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -765,6 +768,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -838,4 +842,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0127-word-ladder/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
