@@ -67,6 +67,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
@@ -251,6 +252,7 @@
 | [0041-first-missing-positive](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
@@ -499,6 +501,7 @@
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -831,4 +834,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0204-count-primes/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
