@@ -235,6 +235,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -357,6 +358,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -429,6 +431,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -679,6 +682,7 @@
 | [0076-minimum-window-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
