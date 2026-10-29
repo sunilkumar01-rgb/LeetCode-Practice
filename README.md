@@ -21,6 +21,7 @@
 | [0231-power-of-two](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
+| [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -428,6 +429,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -870,4 +872,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
