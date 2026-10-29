@@ -458,6 +458,7 @@
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0402-remove-k-digits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0561-array-partition](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0561-array-partition/) | Easy |
@@ -490,6 +491,7 @@
 | [0234-palindrome-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -500,6 +502,7 @@
 | [0042-trapping-rain-water](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0975-odd-even-jump](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## String
@@ -536,6 +539,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
