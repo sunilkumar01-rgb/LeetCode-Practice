@@ -216,6 +216,7 @@
 | [0485-max-consecutive-ones](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
+| [0500-keyboard-row](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -285,6 +286,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
+| [0500-keyboard-row](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -543,6 +545,7 @@
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
+| [0500-keyboard-row](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0647-palindromic-substrings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
