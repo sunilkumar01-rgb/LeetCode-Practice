@@ -537,6 +537,7 @@
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
@@ -567,6 +568,7 @@
 | [0146-lru-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -720,6 +722,7 @@
 | [0200-number-of-islands](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
@@ -755,6 +758,7 @@
 | [0014-longest-common-prefix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0212-word-search-ii/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
