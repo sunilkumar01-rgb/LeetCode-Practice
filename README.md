@@ -284,6 +284,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0500-keyboard-row](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0500-keyboard-row/) | Easy |
@@ -446,6 +447,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0383-ransom-note/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -542,6 +544,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0443-string-compression](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
