@@ -135,6 +135,7 @@
 | [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0068-text-justification/) | Hard |
 | [0495-teemo-attacking](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0867-transpose-matrix/) | Easy |
@@ -165,6 +166,7 @@
 | [0057-insert-interval](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
@@ -525,6 +527,7 @@
 | [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
