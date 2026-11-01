@@ -23,6 +23,7 @@
 | [0279-perfect-squares](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0319-bulb-switcher/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0878-nth-magical-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0878-nth-magical-number/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -211,6 +212,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -286,6 +288,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
@@ -576,6 +579,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0460-lfu-cache](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0705-design-hashset/) | Easy |
@@ -851,6 +855,7 @@
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
