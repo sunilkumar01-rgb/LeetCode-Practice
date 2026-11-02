@@ -160,6 +160,7 @@
 | [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0055-jump-game/) | Medium |
@@ -709,6 +710,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -930,4 +932,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0878-nth-magical-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0878-nth-magical-number/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
