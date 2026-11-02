@@ -49,6 +49,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
@@ -539,6 +540,7 @@
 | [0125-valid-palindrome](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/sunilkumar01-rgb/LeetCode-Practice/tree/main/0179-largest-number/) | Medium |
